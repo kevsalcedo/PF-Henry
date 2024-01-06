@@ -1,8 +1,5 @@
 # README
 
-## Autor
-**Gersom**
-
 ## Descripción
 Este repositorio contiene dos proyectos relacionados que se utilizan conjuntamente para crear una aplicación web completa. Este proyecto sirve como un template para agilizar el desarrollo de aplicaciones web, proporcionando una estructura básica tanto para el frontend como para el backend. A continuación, se detalla la estructura de archivos y una breve descripción de cada uno de los proyectos.
 
